@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "81762b38-0b81-459b-9522-16c4f28c07b8": {
+      "ProjectGuid": "81762b38-0b81-459b-9522-16c4f28c07b8",
+      "DisplayName": "Servicio",
+      "ColorIndex": 0
+    },
+    "e9822484-8ab6-4acd-b14c-20e8714f1fb6": {
+      "ProjectGuid": "e9822484-8ab6-4acd-b14c-20e8714f1fb6",
+      "DisplayName": "LogicaServicio",
+      "ColorIndex": 1
+    },
+    "b620a2a4-ed5e-4c14-8b26-f04b2065f498": {
+      "ProjectGuid": "b620a2a4-ed5e-4c14-8b26-f04b2065f498",
+      "DisplayName": "Logica",
+      "ColorIndex": 2
+    },
+    "1d9388a5-a191-4c2d-be55-bf99f8b067d9": {
+      "ProjectGuid": "1d9388a5-a191-4c2d-be55-bf99f8b067d9",
+      "DisplayName": "Entidades",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

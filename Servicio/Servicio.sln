@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicio", "Servicio\Servicio.csproj", "{81762B38-0B81-459B-9522-16C4F28C07B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{B620A2A4-ED5E-4C14-8B26-F04B2065F498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{1D9388A5-A191-4C2D-BE55-BF99F8B067D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81762B38-0B81-459B-9522-16C4F28C07B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81762B38-0B81-459B-9522-16C4F28C07B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81762B38-0B81-459B-9522-16C4F28C07B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81762B38-0B81-459B-9522-16C4F28C07B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B620A2A4-ED5E-4C14-8B26-F04B2065F498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B620A2A4-ED5E-4C14-8B26-F04B2065F498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B620A2A4-ED5E-4C14-8B26-F04B2065F498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B620A2A4-ED5E-4C14-8B26-F04B2065F498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9388A5-A191-4C2D-BE55-BF99F8B067D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9388A5-A191-4C2D-BE55-BF99F8B067D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9388A5-A191-4C2D-BE55-BF99F8B067D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9388A5-A191-4C2D-BE55-BF99F8B067D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C4A4E62-3FEC-4DBC-B886-11E1D6A082A9}
+	EndGlobalSection
+EndGlobal
