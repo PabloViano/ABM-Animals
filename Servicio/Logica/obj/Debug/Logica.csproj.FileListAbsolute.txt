@@ -1,0 +1,9 @@
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Logica\bin\Debug\Logica.dll
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Logica\bin\Debug\Logica.pdb
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Logica\bin\Debug\Entidades.dll
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Logica\bin\Debug\Entidades.pdb
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Logica\obj\Debug\Logica.csproj.CopyComplete
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Logica\obj\Debug\Logica.dll
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Logica\obj\Debug\Logica.pdb

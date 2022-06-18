@@ -1,0 +1,6 @@
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Entidades\bin\Debug\Entidades.dll
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Entidades\bin\Debug\Entidades.pdb
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Entidades\obj\Debug\Entidades.dll
+A:\User\Pablo\Universidad\Programacion ll\ABM-Animals\Servicio\Entidades\obj\Debug\Entidades.pdb

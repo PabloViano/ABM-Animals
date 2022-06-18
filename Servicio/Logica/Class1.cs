@@ -9,7 +9,13 @@ namespace Logica
 {
     public class Class1
     {
-        List<Animal> Animales = new List<Animal>();
+        public List<Animal> Animales = new List<Animal>()
+        {
+            new Animal() { Nombre = "Perro", Eliminado = false, Especie = "Caniche", FechaCreacion = DateTime.Now, ID = 1},
+            new Animal() { Nombre = "Gato", Eliminado = false, Especie = "Montes", FechaCreacion = DateTime.Now, ID = 2},
+            new Animal() {Nombre = "Loro", Eliminado = false, Especie = "Amazonico", FechaCreacion = DateTime.Now, ID = 3},
+            new Animal(){Nombre = "Pezcado", Eliminado = false, Especie = "Surubi", FechaCreacion = DateTime.Now, ID = 4},
+        };
         public Animal Alta (string nombre, string especie)
         {
             if (nombre != null && especie != null)
@@ -52,6 +58,19 @@ namespace Logica
                     return animal;
                 }
             }
+            return null;
+        }
+        public Animal BuscarPorAproximacion(string nombre, string especie)
+        {
+            foreach (Animal animal in Animales)
+            {
+                if (animal.Nombre.Contains(nombre) && animal.Especie.Contains(especie)) { return animal; }
+            }
+            return null;
+        }
+        public Animal BuscarPorID(int id)
+        {
+            if (Animales.Exists(x => x.ID == id) == true) { return Animales.FirstOrDefault(x => x.ID == id); }
             return null;
         }
     }
